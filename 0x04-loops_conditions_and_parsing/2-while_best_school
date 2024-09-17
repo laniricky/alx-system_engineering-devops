@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #displays "Holberton School" 10 times using while loop
 
-count=0
+count=1
 
 while [ $count -le 10 ]; do
  echo "Best School"
