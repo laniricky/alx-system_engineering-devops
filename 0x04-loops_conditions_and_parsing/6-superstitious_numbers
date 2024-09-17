@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Bash script that displays numbers from 1 to 20
+
 count=1
 
 while [ $count -le 20 ]
@@ -12,4 +13,3 @@ do
   esac
   (( count++ ))
 done
-
