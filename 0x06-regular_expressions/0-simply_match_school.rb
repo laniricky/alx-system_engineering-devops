@@ -1,3 +1,2 @@
-0x06. Regular expression
-Regex
-DevOps
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/School/).join
